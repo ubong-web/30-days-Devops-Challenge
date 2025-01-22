@@ -1,0 +1,1 @@
+![Architecture Diagram](day-2.png)
